@@ -1,12 +1,12 @@
 # 📱 Mock Test App (React Native)
 
-## 🚀 Overview
+ Overview
 This is a timed mock test application built using React Native.  
 It simulates real exam conditions for competitive exams like IIT JAM, GATE, and CSIR NET.
 
 ---
 
-## ✨ Features
+Features
 
 - ✅ MCQ (Single correct answer)
 - ✅ MSQ (Multiple correct answers)
@@ -21,7 +21,7 @@ It simulates real exam conditions for competitive exams like IIT JAM, GATE, and 
 
 ---
 
-## 🧠 Logic Handling
+Logic Handling
 
 - MCQ → Only one option selectable  
 - MSQ → Multiple options allowed  
@@ -31,7 +31,7 @@ It simulates real exam conditions for competitive exams like IIT JAM, GATE, and 
 
 ---
 
-## 🛠 Tech Stack
+Tech Stack
 
 - React Native (Expo)
 - React Navigation
